@@ -1,0 +1,10 @@
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\obj\Release\Cavakaze.csprojAssemblyReference.cache
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\obj\Release\CavakazeRenderer.MainWnd.resources
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\obj\Release\CavakazeRenderer.Properties.Resources.resources
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\obj\Release\Cavakaze.csproj.GenerateResource.cache
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\obj\Release\Cavakaze.csproj.CoreCompileInputs.cache
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\bin\Release\CavakazeRenderer.exe.config
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\bin\Release\CavakazeRenderer.exe
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\bin\Release\CavakazeRenderer.pdb
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\obj\Release\CavakazeRenderer.exe
+C:\Users\Hordr\source\repos\CavakazeRenderer\CavakazeRenderer\obj\Release\CavakazeRenderer.pdb

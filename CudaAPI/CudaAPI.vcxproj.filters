@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="code">
+      <UniqueIdentifier>{2bedbd2c-5d34-4312-a72b-d8b2a2b138ee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="code\CudaAPI.cu">
+      <Filter>code</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="code\CudaAPI.cuh">
+      <Filter>code</Filter>
+    </ClInclude>
+    <ClInclude Include="code\CudaUtil.cuh">
+      <Filter>code</Filter>
+    </ClInclude>
+    <ClInclude Include="code\stb_image.h">
+      <Filter>code</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="code\stb_image.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

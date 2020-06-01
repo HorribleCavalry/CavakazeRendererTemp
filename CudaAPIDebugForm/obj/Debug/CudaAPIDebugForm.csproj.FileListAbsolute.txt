@@ -1,0 +1,13 @@
+D:\GitSpace\CavakazeRenderer\Debug\CudaAPIDebugForm.exe.config
+D:\GitSpace\CavakazeRenderer\Debug\CudaAPIDebugForm.exe
+D:\GitSpace\CavakazeRenderer\Debug\CudaAPIDebugForm.pdb
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\obj\Debug\CudaAPIDebugForm.csprojAssemblyReference.cache
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\obj\Debug\CavakazeRenderer.MainWnd.resources
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\obj\Debug\CavakazeRenderer.Properties.Resources.resources
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\obj\Debug\CudaAPIDebugForm.csproj.GenerateResource.cache
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\obj\Debug\CudaAPIDebugForm.csproj.CoreCompileInputs.cache
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\obj\Debug\CudaAPIDebugForm.exe
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\obj\Debug\CudaAPIDebugForm.pdb
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\bin\Debug\CudaAPIDebugForm.exe.config
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\bin\Debug\CudaAPIDebugForm.exe
+D:\GitSpace\CavakazeRenderer\CudaAPIDebugForm\bin\Debug\CudaAPIDebugForm.pdb
